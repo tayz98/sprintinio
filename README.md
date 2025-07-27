@@ -1,3 +1,7 @@
+# Disclaimer
+
+This project was developed as part of a university group assignment in collaboration with the company Appinio.
+
 # flutter-sprintinio
 
 ## Getting Started
